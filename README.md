@@ -1,1 +1,2 @@
-# Accessibility-refactor
+# Accessibility-refactor:
+Added alt text to images, as well as title to background image in order to make the site more accessible.  Also corrected a syntax error which makes the site function more consistently.
